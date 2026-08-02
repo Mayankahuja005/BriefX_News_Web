@@ -111,7 +111,7 @@ function Signup() {
             name="name"
             value={formData.name}
             onChange={handleChange}
-            className="input input-bordered w-full h-12"
+           className="input input-bordered w-full h-12 bg-white text-black placeholder-gray-500"
           />
 
           <input
@@ -120,7 +120,7 @@ function Signup() {
             name="email"
             value={formData.email}
             onChange={handleChange}
-            className="input input-bordered w-full h-12"
+            className="input input-bordered w-full h-12 bg-white text-black placeholder-gray-500"
           />
 
           <input
@@ -129,7 +129,7 @@ function Signup() {
             name="password"
             value={formData.password}
             onChange={handleChange}
-            className="input input-bordered w-full h-12"
+           className="input input-bordered w-full h-12 bg-white text-black placeholder-gray-500"
           />
 
           <button
