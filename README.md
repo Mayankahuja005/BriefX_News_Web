@@ -40,13 +40,13 @@ Built using **React.js**, **Vite**, **Tailwind CSS**, **React Router DOM**, and 
 
  ### Backend
  
-- 🟢 Node.js
-- 🚀 Express.js
-- 🍃 MongoDB
-- 📦 Mongoose
-- 🔐 JWT Authentication
-- 🔒 Bcrypt.js
-- 🌍 CORS
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* JWT Authentication
+* Bcrypt.js
+* CORS
 
 ### API
 
