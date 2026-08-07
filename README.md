@@ -38,7 +38,7 @@ Built using **React.js**, **Vite**, **Tailwind CSS**, **React Router DOM**, and 
 * Zustand Persist Middleware
 * React Icons
 
- ### ⚙️ Backend
+ ### Backend
  
 - 🟢 Node.js
 - 🚀 Express.js
