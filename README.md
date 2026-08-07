@@ -38,6 +38,16 @@ Built using **React.js**, **Vite**, **Tailwind CSS**, **React Router DOM**, and 
 * Zustand Persist Middleware
 * React Icons
 
+ ### ⚙️ Backend
+ 
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 📦 Mongoose
+- 🔐 JWT Authentication
+- 🔒 Bcrypt.js
+- 🌍 CORS
+
 ### API
 
 * Currents News API
